@@ -1,24 +1,9 @@
-# README
+# usine_dbb
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Auteures:
+Rebecca Bossé
+Charlotte Vaudour
 
-Things you may want to cover:
+application sur rails 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#Les usines sont à la mode en ce moment, nous allons créer un site pour les usines. Nous allons créer un modèle assemblage, qui serait l'assemblage de plusieurs pièces. Une pièce peut appartenir à plusieurs assemblages.
